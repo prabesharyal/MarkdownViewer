@@ -1,0 +1,2 @@
+C:\Users\prabe\Code\Languages\JS\REACT\Echo\echoproject\obj\Debug\echoproject.esproj.SuggestedBindingRedirects.cache
+C:\Users\prabe\Code\Languages\JS\REACT\Echo\echoproject\obj\Debug\echoproject.esproj.CoreCompileInputs.cache
